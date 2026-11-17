@@ -34,3 +34,21 @@ Durante o desenvolvimento do projeto, participei de diferentes etapas:
 ## 📚 Contexto acadêmico
 
 Projeto desenvolvido
+## 📱 Telas do protótipo
+
+O protótipo do GreenStop apresenta uma proposta de aplicativo para compartilhamento de caronas universitárias.
+
+### Tela inicial
+![Tela inicial](assets/Tela%20inicial.png)
+
+### Menu principal
+![Menu principal](assets/busca.png)
+
+### Buscar carona
+![Formulário de busca](assets/Tela%20de%20busca.png)
+
+### Detalhes da carona
+![Detalhes da viagem](assets/tela%20de%20perfil.png)
+
+### Confirmação da solicitação
+![Solicitação de carona](assets/solicita%C3%A7%C3%A3o.png)
